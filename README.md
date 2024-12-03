@@ -21,7 +21,6 @@ Dockdes is a terminal-based application written in C that helps users generate G
 
 - **User-friendly Interface**:
   - Simple menu-driven navigation.
-  - Clean and intuitive ASCII art banner.
 
 - **Dynamic URL Generation**:
   - Automatically builds Google search URLs based on selected filters.
