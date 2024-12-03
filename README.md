@@ -1,6 +1,7 @@
 # Dockdes
 
 Dockdes is a terminal-based application written in C that helps users generate Google search queries with advanced filters, also known as "Google Dorks". This tool supports both **English** and **Russian** languages, allowing users to customize their search queries easily.
+![image](https://github.com/user-attachments/assets/3bdecee2-19e7-4143-ada9-467113f073e6)
 
 ---
 
