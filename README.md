@@ -40,10 +40,10 @@ Dockdes is a terminal-based application written in C that helps users generate G
    ```bash
    git clone https://github.com/klovych/Dockdes.git
    cd dockdes
-2.Compile the program:
+2. Compile the program:
   ```bash
    gcc dockdes.c -o dockdes
-```
+  ```
 3. Run this program:
    ```bash
    ./dockdes
