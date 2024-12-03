@@ -38,11 +38,16 @@ Dockdes is a terminal-based application written in C that helps users generate G
 ### Steps to Compile and Run:
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your_username/google-dorking-tool.git
-   cd google-dorking-tool
+   git clone https://github.com/klovych/Dockdes.git
+   cd dockdes
+2.Compile the program:
+  ```bash
    gcc dockdes.c -o dockdes
+```
+  ```bash
+3. Run this program:
    ./dockdes
-
+```
 
 🌐 How to Use
 Select a language: Choose between English or Russian at startup.
