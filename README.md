@@ -44,10 +44,10 @@ Dockdes is a terminal-based application written in C that helps users generate G
   ```bash
    gcc dockdes.c -o dockdes
 ```
-  ```bash
 3. Run this program:
+   ```bash
    ./dockdes
-```
+
 
 🌐 How to Use
 Select a language: Choose between English or Russian at startup.
